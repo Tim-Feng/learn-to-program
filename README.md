@@ -1,4 +1,4 @@
 learn-to-program
 ================
 
-Tea Leaf Pre-course of Course 1
+This is the exercises of Learn to Program, which is the pre-course of Tea Leaf course 1.
